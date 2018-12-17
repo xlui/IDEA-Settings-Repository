@@ -1,0 +1,6 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="Refresh">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="Replace" />
+</keymap>
